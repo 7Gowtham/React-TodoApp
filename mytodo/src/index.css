@@ -1,0 +1,30 @@
+*{
+    background-color: antiquewhite;
+}
+
+.filter{
+    display: flex;
+    justify-content:space-around;
+}
+
+.drop{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-flex{
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+.inp{
+    width: 400px !important; 
+}
+
+.card-border{
+    border: 1px solid black;
+}
+
+
+
+
